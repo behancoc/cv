@@ -1,18 +1,11 @@
 body {
-    background-color: #eaf6f6;
+    margin: 0;
 }
 
 h1 {
-    color: #66bfbf;
+    margin-top: 0;
 }
 
-h3 {
-    color: #66bfbf;
-}
-
-hr {
-    border-style: dotted none none;
-    border-color: grey;
-    border-width: 7.5px;
-    width: 5%;
+div {
+    background-color: #E4F9F5;
 }
